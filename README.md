@@ -4,6 +4,15 @@ Exploration of [Web API](https://developer.mozilla.org/en-US/docs/Web/API) with 
 
 _**Contribution are most welcome.**_
 
+## TODOs
+
+-   ✅File upload
+-   Drag & Drop
+-   Audio recording
+-   Audio visualiser
+-   Camera access & taking picture
+-   Video player (customised)
+
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
@@ -12,8 +21,8 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ### Prerequisite
 
--   Node version v18.16.0
--   Yarn version v4.3.1
+-   Node version `v18.16.0`
+-   Yarn version `v4.3.1`
 
 ```sh
 yarn
