@@ -1,7 +1,11 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { RouterLink } from 'vue-router'
+</script>
 
 <template>
-    <main>
-        <h1>main page</h1>
-    </main>
+    <ul>
+        <li>
+            <RouterLink to="/file-upload"> File Upload </RouterLink>
+        </li>
+    </ul>
 </template>
