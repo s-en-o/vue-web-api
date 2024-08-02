@@ -10,7 +10,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
-### prerequisite
+### Prerequisite
 
 -   Node version v18.16.0
 -   Yarn version v4.3.1
