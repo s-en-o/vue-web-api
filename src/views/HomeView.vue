@@ -7,5 +7,8 @@ import { RouterLink } from 'vue-router'
         <li>
             <RouterLink to="/file-upload"> File Upload </RouterLink>
         </li>
+        <li>
+            <RouterLink to="/drag-drop"> Drag & Drop </RouterLink>
+        </li>
     </ul>
 </template>

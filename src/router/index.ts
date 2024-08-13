@@ -13,6 +13,11 @@ const router = createRouter({
             name: 'fileUpload',
             component: () => import('../views/FileUpload.vue'),
         },
+        {
+            path: '/drag-drop',
+            name: 'dragDrop',
+            component: () => import('../views/DragDrop.vue'),
+        },
     ],
 })
 
