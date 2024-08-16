@@ -7,7 +7,7 @@ _**Contribution are most welcome.**_
 ## TODOs
 
 -   ✅File upload
--   Drag & Drop
+-   ✅Drag & Drop
 -   Audio recording
 -   Audio visualiser
 -   Camera access & taking picture
