@@ -18,6 +18,11 @@ const router = createRouter({
             name: 'dragDrop',
             component: () => import('../views/DragDrop.vue'),
         },
+        {
+            path: '/audio',
+            name: 'audio',
+            component: () => import('../views/AudioView.vue'),
+        },
     ],
 })
 

@@ -10,5 +10,8 @@ import { RouterLink } from 'vue-router'
         <li>
             <RouterLink to="/drag-drop"> Drag & Drop </RouterLink>
         </li>
+        <li>
+            <RouterLink to="/audio"> Audio </RouterLink>
+        </li>
     </ul>
 </template>
