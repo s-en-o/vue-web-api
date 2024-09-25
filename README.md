@@ -6,9 +6,9 @@ _**Contribution are most welcome.**_
 
 ## TODOs
 
--   ✅File upload
--   ✅Drag & Drop
--   Audio recording
+-   ✅ File upload
+-   ✅ Drag & Drop
+-   ✅ Audio recording
 -   Audio visualiser
 -   Camera access & taking picture
 -   Video player (customised)
