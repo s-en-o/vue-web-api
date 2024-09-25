@@ -6,9 +6,9 @@ _**Contribution are most welcome.**_
 
 ## TODOs
 
--   ✅File upload
--   ✅Drag & Drop
--   Audio recording
+-   ✅ File upload
+-   ✅ Drag & Drop
+-   ✅ Audio recording
 -   Audio visualiser
 -   Camera access & taking picture
 -   Video player (customised)
@@ -21,8 +21,8 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ### Prerequisite
 
--   Node version `v18.16.0`
--   Yarn version `v4.3.1`
+-   Node version `v18.20.0`
+-   Yarn version `v4.5.0`
 
 ```sh
 yarn
